@@ -42,6 +42,6 @@ public class Main {
             System.out.println("INVALID CHOICE!");
         }
 
-        input.close(); // Good practice to close your scanner!
+        input.close(); !
     }
 }
